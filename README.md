@@ -78,8 +78,6 @@ Vimalagiri 2026-27(net)/
 ├── Fonts/                  # Custom application fonts
 ├── Legal/                  # Product documentation and license agreements
 ├── Deployement/            # Built executable installers & resources
-├── build/                  # PyInstaller build artifacts
-├── dist/                   # Compiled standalone executables (.exe)
 │
 ├── start_screen_config.json# Dynamic splash screen configuration
 ├── continuebtn.jpg         # "Continue" button image asset
