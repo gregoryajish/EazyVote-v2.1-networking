@@ -1,0 +1,5 @@
+[2026-07-01 19:32:19.943222] [voting] Connection Error: 2003: Can't connect to MySQL server on '192.168.1.100:3306' (timed out)
+[2026-07-01 19:47:27.678201] [voting] Connection Error: 2003 (HY000): Can't connect to MySQL server on '192.168.1.100:3306' (10060)
+[2026-07-01 20:25:56.660492] [voting] Connection Error: 2003: Can't connect to MySQL server on '192.168.1.100:3306' (timed out)
+[2026-07-02 00:18:35.152605] [result] Connection Error: 2003 (HY000): Can't connect to MySQL server on '192.168.1.100:3306' (10060)
+[2026-07-02 10:21:44.849684] [voting] Connection Error: 2003 (HY000): Can't connect to MySQL server on '192.168.1.100:3306' (10051)
